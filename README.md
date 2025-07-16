@@ -41,19 +41,14 @@
 
 ### 📌 Projects You Should See
 
-- 🚀 **[ZapMail](https://github.com/yourusername/zapmail)** – Real-time IMAP sync, email classification, and dashboard using Node.js + Elasticsearch
-- 📩 **Onebox Email Aggregator** – Unified inbox with Slack/webhook integration, React UI, and AI categorization
-- 🎓 **Student Enrollment App** – Spring Boot + React full-stack application with CRUD and aesthetic UI
-- 🎧 **Spotify API Backend** – Control your Spotify directly via API (top 10, now playing, pause/resume)
+- 🚀 **[EcoRide](https://theecoride.in)** – An webapp that can be used to commute from one place to another
+
 
 ---
 
 ### 🤯 Fun Facts
 
-- 🕹️ I automate things just for fun (yes, including LinkedIn 😎)
-- ⚡ I believe **DSA is the gym of the mind** – consistency > brute force
-- ☕ Coffee keeps the bugs away... mostly
-- 💡 I love converting ideas into production-grade tools
+- Spiders are the only web developers that loves bugs
 
 ---
 
