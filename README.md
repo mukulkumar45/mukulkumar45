@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Mukul (a.k.a Iron Man) 🦾</h1>
+<h1 align="center">Hi there 👋, I'm Mukul 🦾</h1>
 <h3 align="center">Software Engineer | Full-Stack Developer | DSA Enthusiast 💻</h3>
 
 <p align="center">
@@ -22,9 +22,9 @@
 ### 📫 Contact Me
 
 <p>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:mukulkum0121@gmail"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mukulkumar007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mukul007.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white"/></a>
 </p>
 
 ---
